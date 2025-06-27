@@ -1,4 +1,4 @@
-# Lista-de-Tarefas-2-PraTi
+# Lista-de-Tarefas-2+PraTi
 
 Atividade realiza para fins de fixação e reforço das aulas do módulo 1 do Curso Dev. Full Stack Jr. +praTi
 
