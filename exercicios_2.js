@@ -253,4 +253,3 @@ const prompt = require("prompt-sync")();
 // const novoArray = objetoParaPares(objeto);
 // console.log(novoArray);
 // // [ ["nome", "Ana"], ["idade", 25], ["cidade", "São Paulo"] ]
-
